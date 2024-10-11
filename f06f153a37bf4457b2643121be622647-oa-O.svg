@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2202" height="1062">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="f06f153a37bf4457b2643121be622647-oa-1" height="134.09091" width="34.09091" y="474.36364" x="186.63634" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="f06f153a37bf4457b2643121be622647-oa-2" height="20.45455" width="50" y="483.45455" x="568.45453" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="f06f153a37bf4457b2643121be622647-oa-3" height="36.36364" width="127.27273" y="422.09091" x="557.09089" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="f06f153a37bf4457b2643121be622647-oa-4" height="97.72727" width="213.63636" y="544.81819" x="1118.45453" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect stroke="#2D2D2D" id="f06f153a37bf4457b2643121be622647-oa-5" height="47.72727" width="402.27273" y="81.18182" x="716.18179" fill="#ff0000"/>
+  <rect id="f06f153a37bf4457b2643121be622647-oa-6" height="38.63636" width="409.09091" y="83.45455" x="1386.63635" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="f06f153a37bf4457b2643121be622647-oa-7" height="88.63636" width="184.09091" y="540.27273" x="1777.54544" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="f06f153a37bf4457b2643121be622647-oa-8" height="84.09091" width="229.54546" y="381.18182" x="1766.1818" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="f06f153a37bf4457b2643121be622647-oa-9" height="36.36364" width="86.36364" y="817.54546" x="1659.36362" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="f06f153a37bf4457b2643121be622647-oa-10" height="36.36364" width="97.72727" y="878.9091" x="1336.63635" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="f06f153a37bf4457b2643121be622647-oa-11" height="47.72727" width="156.81818" y="999.36364" x="418.45453" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ff0000"/>
+ </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2574" height="1030">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-1" height="56.09756" width="434.14636" y="33.41466" x="408.92693" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-2" height="46.34146" width="312.19513" y="106.5854" x="1816.24404" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-3" height="51.21951" width="192.68293" y="101.70735" x="2243.07333" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-4" height="43.90244" width="173.17074" y="233.41467" x="2286.97577" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-5" height="53.65854" width="234.14635" y="357.80492" x="411.36595" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-6" height="63.41464" width="226.82928" y="489.51224" x="399.17083" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-7" height="36.58537" width="129.2683" y="645.6098" x="1889.41478" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-8" height="31.70732" width="192.68293" y="706.58542" x="784.53669" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-9" height="48.78049" width="268.29269" y="699.26834" x="1840.63429" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-10" height="36.58537" width="251.21952" y="762.68298" x="501.60986" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect stroke="#2D2D2D" id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-11" height="43.90244" width="1107.31711" y="833.41469" x="433.31717" fill="#ff7f00"/>
+  
+  <rect stroke="#2D2D2D" id="de42a5197d6b493ab6e1fc2f40bf8b9f-oa-12" height="258.53659" width="73.17072" y="594.39029" x="177.21961" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ff7f00"/>
+ </g>
+</svg>
